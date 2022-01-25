@@ -1,0 +1,1 @@
+I'm Madeline Phillips. I am in the final semester of my Master's degree in CS. I'm interested in working on a hiking recommendation app that uses data analysis techniques to make appropriate recommendations for users. The problem I'm addressing is the ease of entry into the world of hiking, as it can be difficult for beginners to pick safe, enjoyable trails.
