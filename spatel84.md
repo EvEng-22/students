@@ -1,0 +1,1 @@
+Hello, I am Shivam Patel. I completed my Master's in Spring 2021, and I am now a first year PhD student. I work in Dr. Jantz's lab, CORSys, working on compilers, operating systems, and memory systems related topics.
